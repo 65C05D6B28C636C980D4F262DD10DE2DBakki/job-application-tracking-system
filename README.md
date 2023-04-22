@@ -1,7 +1,7 @@
 # job-application-tracking-system
 
 VIDEO DEMONSTRATION:
-https://drive.google.com/file/d/1bV4L0b-5yxgJ61ziI87ScJGXs0TCWojW/view?usp=drivesdk
+https://photos.app.goo.gl/YinR8oSG7MNfg1gq7
 
 REPORT:
 https://drive.google.com/file/d/1awMjz8KhhYIeG4mjVmxzcBP7a5cbRRVW/view?usp=drivesdk
